@@ -26,5 +26,5 @@ To analyse e-commerce sales data and build an interactive Power BI dashboard to 
 ## 📁 Repository Structure
 - `dashboard/` → Power BI (.pbix) file
 - `screenshots/` → Dashboard images
-- `insights/` → Observations and recommendations
+- `analysis/` → Observations and recommendations
 
